@@ -109,6 +109,7 @@ Lifestyle_Prediction_Project/
 ├── models/               # Lưu trữ mô hình đã huấn luyện (.pkl)
 ├── reports/              # Báo cáo chi tiết (PDF/Word)
 ├── slides/               # Slide thuyết trình (PPT)
+├── .gitignore            # File cấu hình git
 ├── requirements.txt      # Danh sách các thư viện cần cài đặt
 └── README.md             # Hướng dẫn sử dụng dự án
 ```
